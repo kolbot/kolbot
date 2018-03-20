@@ -160,7 +160,7 @@ class BotHandler:
 		return last_update
 
 
-
+token = '560432515:AAE6D_Hugs5ZN0cuCc_dl_xQnh_ESOV6HRI'
 krisha_bot = BotHandler(token)  
 
 command1 = '/start'
